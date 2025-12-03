@@ -35,10 +35,15 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xebec51&show_icons=true&theme=radical&hide_border=false&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xebec51&layout=compact&theme=radical&hide_border=false&langs_count=6&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xebec51&theme=radical" alt="Profile Details" />
+  
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xebec51&theme=radical&hide_border=false&background=0d1117" height="160" alt="streak graph" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xebec51&theme=radical" alt="Top Languages" />
+  
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=xebec51&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
 ---
