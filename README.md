@@ -1,9 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&text=Muh.%20Rinaldi%20Ruslan&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=180&text=My%20Github%20Profile&fontSize=40&fontColor=ffffff&fontAlignY=35&animation=fadeIn&section=header" width="100%" />
 
 <div align="center">
-  <h3>Information Systems Student | Lab Assistant | Tech Enthusiast</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=35d0ba&center=true&vCenter=true&lines=Information+Systems+Student;Software+Developer;Machine+Learning+Enthusiast;Check+Out+My+Portfolio+Below!&width=500&height=50" alt="Typing SVG" />
+  </a>
   
   <p>
+    <a href="https://naldiporto.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
     <a href="mailto:rinaldi.ruslan51@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
     <a href="https://www.linkedin.com/in/muh-rinaldi-ruslan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://instagram.com/rinaldiruslan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
