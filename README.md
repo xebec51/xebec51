@@ -34,16 +34,24 @@
 
 ### 📊 GitHub Statistics
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="35%" />
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xebec51&theme=radical" alt="Languages" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=xebec51&theme=radical&hide_border=false" alt="Streak Stats" />
+</p>
+
+<br clear="all" />
+
+---
+
+### 🧩 Contributions
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xebec51&theme=radical" alt="Profile Details" />
-  
-  <br/>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xebec51&theme=radical" alt="Top Languages" />
-  
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=xebec51&theme=radical&hide_border=false" alt="Streak Stats" />
 </div>
 
 ---
