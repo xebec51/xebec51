@@ -14,11 +14,11 @@
 
 ### 🧐 About Me
 
-- 🎓 I am a `Student` at **Hasanuddin University** majoring in **Information Systems** (GPA 3.89).
-- 💻 Currently active as a `Laboratory Assistant` for **Web Programming** & **Object Oriented Programming**.
-- 🚀 Passionate about **Software Engineering**, **Data Science**, and **Artificial Intelligence**.
-- ☁️ Certified **AWS Cloud Practitioner** & **Front-End Web Developer Expert**.
-- 🤝 Open for new `collaborations` and `opportunities` in tech.
+- 🎓 I am an **Information Systems Student** at Hasanuddin University.
+- 🚀 Enthusiastic about **Software Development** and **Machine Learning**.
+- 💡 Passionate about building scalable applications and exploring AI solutions.
+- 🎯 My goal is to solve real-world problems through technology.
+- 🤝 Open for **collaborations** and discussing new ideas.
 
 ---
 
