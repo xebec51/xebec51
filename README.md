@@ -48,7 +48,7 @@
 </p>
 
 <p>
-  <img src="https://streak-stats.demolab.com?user=xebec51&theme=radical&hide_border=false" alt="Streak Stats" />
+  <img src="https://xebec51streak.vercel.app/?user=xebec51&theme=radical&hide_border=false" alt="Streak Stats" />
 </p>
 
 <br clear="all" />
